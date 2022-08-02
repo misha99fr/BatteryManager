@@ -1,6 +1,6 @@
 # BatteryManager
 
-Batterymanager for windows(includes battery******)
+Batterymanager for windows(includes batteryFucker)
 
 Made with vb in visual studio 2019
 
