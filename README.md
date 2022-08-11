@@ -1,8 +1,8 @@
 # BatteryMgr
 
-Batterymanager for windows(includes batteryFucker)
+Batterymanager for windows(includes batteryF*cker)
 
-Made with vb in visual studio 2019
+Made on c#
 
 Requirements:
 
