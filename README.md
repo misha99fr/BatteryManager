@@ -1,4 +1,4 @@
-# BatteryManager
+# BatteryMgr
 
 Batterymanager for windows(includes batteryFucker)
 
