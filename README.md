@@ -24,4 +24,4 @@ Click on RegisterWDTF.exe in Runtime Folder
 pnputil -i -a *.inf to install the Battery drivers
 
 and put the SimulatedBattery_Control.vbs in The Battery Manager Folder
-
+![](https://github.com/misha99fr/BatteryManager/blob/main/VirtualBatterymgr_Y4IUSDROTl.png?raw=true)
