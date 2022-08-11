@@ -1,1 +1,0 @@
-cscript SimulatedBattery_Control.vbs /cleanup
