@@ -1,11 +1,11 @@
-# BatteryMgr
+# BatteryManager(RUS)
 
 
 ![](https://github.com/misha99fr/BatteryManager/blob/main/VirtualBatterymgr_Y4IUSDROTl.png?raw=true)
 
 
 
-Batterymanager for windows(includes batteryF*cker)
+Batterymanager for windows(includes batteryFcker Technology)
 
 Made on c#
 
@@ -13,8 +13,9 @@ Requirements:
 
 Windows 7/8.1/10
 Net core 3.1:https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-3.1.28-windows-x64-installer
+(Now in "Requirements" folder)
 
-Virtualbattery:
+virtualbattery files:(Now in Requirments Folder)
 
 Virtualbattery link:
 x86:http://mswin.me/cdn/batt-emu-mswin.me-x86.zip
