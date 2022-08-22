@@ -28,4 +28,5 @@ install WDK Test Target Setup.msi
 Click on RegisterWDTF.exe in Runtime Folder
 
 pnputil -i -a *.inf to install the Battery drivers
+
 ![image](https://user-images.githubusercontent.com/83592338/185981417-dc7be8be-1e83-4c7a-a6a5-e1ce6be96a16.png)
