@@ -12,6 +12,7 @@ Made on c#
 Requirements:
 
 Windows 7/8.1/10
+Net core 3.1:https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-3.1.28-windows-x64-installer
 
 Virtualbattery:
 
@@ -29,4 +30,3 @@ Click on RegisterWDTF.exe in Runtime Folder
 pnputil -i -a *.inf to install the Battery drivers
 
 and put the SimulatedBattery_Control.vbs in The Battery Manager Folder
-
