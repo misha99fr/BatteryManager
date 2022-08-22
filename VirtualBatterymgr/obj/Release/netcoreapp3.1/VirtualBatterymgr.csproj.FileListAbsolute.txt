@@ -4,8 +4,6 @@ C:\Users\cackemc\Documents\Проекты\VirtualBatterymgr\VirtualBatterymgr\bi
 C:\Users\cackemc\Documents\Проекты\VirtualBatterymgr\VirtualBatterymgr\bin\Release\netcoreapp3.1\VirtualBatterymgr.runtimeconfig.dev.json
 C:\Users\cackemc\Documents\Проекты\VirtualBatterymgr\VirtualBatterymgr\bin\Release\netcoreapp3.1\VirtualBatterymgr.dll
 C:\Users\cackemc\Documents\Проекты\VirtualBatterymgr\VirtualBatterymgr\bin\Release\netcoreapp3.1\VirtualBatterymgr.pdb
-C:\Users\cackemc\Documents\Проекты\VirtualBatterymgr\VirtualBatterymgr\bin\Release\netcoreapp3.1\Hardware.Info.dll
-C:\Users\cackemc\Documents\Проекты\VirtualBatterymgr\VirtualBatterymgr\bin\Release\netcoreapp3.1\System.Management.dll
 C:\Users\cackemc\Documents\Проекты\VirtualBatterymgr\VirtualBatterymgr\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Management.dll
 C:\Users\cackemc\Documents\Проекты\VirtualBatterymgr\VirtualBatterymgr\obj\Release\netcoreapp3.1\VirtualBatterymgr.csproj.AssemblyReference.cache
 C:\Users\cackemc\Documents\Проекты\VirtualBatterymgr\VirtualBatterymgr\obj\Release\netcoreapp3.1\VirtualBatterymgr.About.resources
@@ -20,3 +18,5 @@ C:\Users\cackemc\Documents\Проекты\VirtualBatterymgr\VirtualBatterymgr\ob
 C:\Users\cackemc\Documents\Проекты\VirtualBatterymgr\VirtualBatterymgr\obj\Release\netcoreapp3.1\VirtualBatterymgr.dll
 C:\Users\cackemc\Documents\Проекты\VirtualBatterymgr\VirtualBatterymgr\obj\Release\netcoreapp3.1\VirtualBatterymgr.pdb
 C:\Users\cackemc\Documents\Проекты\VirtualBatterymgr\VirtualBatterymgr\obj\Release\netcoreapp3.1\VirtualBatterymgr.genruntimeconfig.cache
+C:\Users\cackemc\Documents\Проекты\VirtualBatterymgr\VirtualBatterymgr\bin\Release\netcoreapp3.1\Hardware.Info.dll
+C:\Users\cackemc\Documents\Проекты\VirtualBatterymgr\VirtualBatterymgr\bin\Release\netcoreapp3.1\System.Management.dll

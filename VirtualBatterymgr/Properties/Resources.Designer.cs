@@ -61,6 +61,65 @@ namespace VirtualBatterymgr.Properties {
         }
         
         /// <summary>
+        ///   Поиск локализованного ресурса типа System.Byte[].
+        /// </summary>
+        internal static byte[] _1 {
+            get {
+                object obj = ResourceManager.GetObject("_1", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Поиск локализованного ресурса типа System.Byte[].
+        /// </summary>
+        internal static byte[] _2 {
+            get {
+                object obj = ResourceManager.GetObject("_2", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Поиск локализованного ресурса типа System.Byte[].
+        /// </summary>
+        internal static byte[] _3 {
+            get {
+                object obj = ResourceManager.GetObject("_3", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Поиск локализованного ресурса типа System.Byte[].
+        /// </summary>
+        internal static byte[] _4 {
+            get {
+                object obj = ResourceManager.GetObject("_4", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Поиск локализованного ресурса типа System.Byte[].
+        /// </summary>
+        internal static byte[] bat {
+            get {
+                object obj = ResourceManager.GetObject("bat", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на cscript SimulatedBattery_Control.vbs /cleanup.
+        /// </summary>
+        internal static string Clear {
+            get {
+                return ResourceManager.GetString("Clear", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
         /// </summary>
         internal static System.Drawing.Bitmap imgonline_com_ua_Mirror_n4uFzXMg1VWII {
@@ -77,6 +136,58 @@ namespace VirtualBatterymgr.Properties {
             get {
                 object obj = ResourceManager.GetObject("imgonline-com-ua-Mirror-n4uFzXMg1VWII-removebg-preview", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Поиск локализованного ресурса типа System.Byte[].
+        /// </summary>
+        internal static byte[] Setupbat {
+            get {
+                object obj = ResourceManager.GetObject("Setupbat", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на &apos;
+        ///&apos; Variable defenition 
+        ///&apos;
+        ///Dim WDTF
+        ///Dim SimulatedBatterySystemSystemAction
+        ///
+        ///
+        ///&apos;
+        ///&apos; Create WDTF object
+        ///&apos;
+        ///Set WDTF = CreateObject(&quot;WDTF2.WDTF&quot;)
+        ///
+        ///&apos;
+        ///&apos;  Get SimulatedBatterySystem action interface
+        ///&apos;
+        ///Set SimulatedBatterySystemSystemAction = WDTF.SystemDepot.ThisSystem.GetInterface(&quot;SimulatedBatterySystem&quot;)
+        ///
+        ///If WScript.Arguments.Named.Exists(&quot;setup&quot;) Then
+        ///    Setup
+        ///ElseIf WScript.Arguments.Named.Exists(&quot;cleanup&quot;) Then
+        ///    Cleanup
+        ///ElseIf WScript.Arguments.Named.Exists(&quot;AC&quot;) Then
+        ///    AC
+        ///ElseIf W [остаток строки не уместился]&quot;;.
+        /// </summary>
+        internal static string SimulatedBattery_Control {
+            get {
+                return ResourceManager.GetString("SimulatedBattery_Control", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Поиск локализованного ресурса типа System.Byte[].
+        /// </summary>
+        internal static byte[] start {
+            get {
+                object obj = ResourceManager.GetObject("start", resourceCulture);
+                return ((byte[])(obj));
             }
         }
     }
